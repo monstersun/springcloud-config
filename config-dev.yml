@@ -3,3 +3,6 @@ profile: dev
 spring:
   application:
     name: config-dev
+    
+config:
+  info: master-branch, config-dev.yml version=0.0.1SnapShot
