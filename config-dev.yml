@@ -12,4 +12,4 @@ mybatis:
   type-aliases-package: com.atguigu.springcloud.entities, com.atguigu.cloud.commons.entities
   
 config:
-  info: 123456 version=2.0
+  info: 123456 version=3.0
